@@ -164,7 +164,7 @@
   <!-- /.content-wrapper -->
   <footer class="main-footer">
     <div class="pull-right hidden-xs" id="hidden-xs"></div>
-    <strong>Copyright &copy; <?= date('Y') ?> <a href="https://www.saungnulis.tk">Wintaris</a> </strong> All rights reserved.
+    <strong>Copyright &copy; <?= date('Y') ?> <a href="https://ilmucoding.com">Ilmucoding.com</a> </strong> All rights reserved.
   </footer>
 
   
